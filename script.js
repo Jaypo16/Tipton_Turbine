@@ -4,8 +4,8 @@
 
      Tipton Turbines
      Program to display games results in a web table
-     Author: 
-     Date:   
+     Author: Jaevon Ponds
+     Date: 11/22/2024  
 
      Filename: script.js
  */

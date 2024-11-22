@@ -4,8 +4,8 @@
 
       Tipton Turbines
       Baseball Schedule Data
-      Author: 
-      Date:   
+      Author: Jaevon Ponds
+      Date:   11/22/2024
 
       Filename: schedule.js
 */
