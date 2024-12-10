@@ -31,6 +31,8 @@ let gameLocations = ["h", "a", "h", "h", "h", "h", "a", "a", "a", "a", "a", "h",
 // runs scored in each game
 let runsScored =    [2, 4, 2, 1, 0, 2, 2, 1, 8, 3, 4, 7, 4, 1, 2, 0, 8, 6, 3, 0, 5, 7, 3];
 
+//comment section
+
 // runs allowed in each game
 let runsAllowed =   [1, 2, 0, 5, 3, 3, 1, 5, 3, 1, 3, 6, 7, 4, 6, 3, 2, 4, 1, 0, 3, 2, 4];
 
